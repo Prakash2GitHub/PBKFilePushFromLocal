@@ -1,7 +1,7 @@
 
  class FirstJavaProgram {
        public static void main(String []args){
-           System.out.println("Prakash's first java program");
+           System.out.println("Prakash's first java program which pushed to github");
 }
 
 
